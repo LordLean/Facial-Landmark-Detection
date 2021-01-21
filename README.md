@@ -9,9 +9,18 @@ This paper uses a dataset of labelled sample images, labels come in the form of 
 Using metrics such as Euclidean Distance and mean squared error (mse) we can compare different CNN structures and their effects on performance during training.
 
 Final TensorFlow model breakdown:
-![](https://raw.githubusercontent.com/LordLean/Facial-Landmark-Detection/main/Images/final_model_flow%20(1).png)
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LordLean/Facial-Landmark-Detection/main/Images/final_model_flow%20(1).png" width="500" />
+</p>
 
 Example Predictions:
-
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LordLean/Facial-Landmark-Detection/main/Images/Example%20Images%20(1).png" width="500" />
+</p>
 
 Some face segmentation and a fun filter!
+Flow            |  Demo
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/LordLean/Facial-Landmark-Detection/main/Images/graphical_demo%20(1).png)  |  ![](https://raw.githubusercontent.com/LordLean/Facial-Landmark-Detection/main/Images/predicted_graphical_effect.png)
