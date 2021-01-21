@@ -8,7 +8,7 @@ This paper uses a dataset of labelled sample images, labels come in the form of 
 
 Using metrics such as Euclidean Distance and mean squared error (mse) we can compare different CNN structures and their effects on performance during training.
 
-Final TensorFlow model breakdown:
+Final TensorFlow model breakdown. Made up of Convolutional, MaxPooling and Dense layers:
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/LordLean/Facial-Landmark-Detection/main/Images/final_model_flow%20(1).png" width="800" />
